@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adhi",
+      "email": "adhi@mail.com",
+      "phone": "08566860608"
+    },
+    {
+      "id": 2,
+      "name": "Dono",
+      "email": "dono@mail.com",
+      "phone": "08124291601"
+    },
+    {
+      "id": 3,
+      "name": "Kasino",
+      "email": "kasino@mail.com",
+      "phone": "08912481457"
+    },
+    {
+      "id": 4,
+      "name": "Indro",
+      "email": "indro@mail.com",
+      "phone": "08219048582"
+    },
+    {
+      "id": 5,
+      "name": "Warkop",
+      "email": "warkop@mail.com",
+      "phone": "08857903332"
+    },
+    {
+      "id": "77af24d772a",
+      "name": "Adhimukti Dwinaya",
+      "email": "adhiwinaya7@gmail.com",
+      "phone": "085668606088"
+    }
+  ]
+}
